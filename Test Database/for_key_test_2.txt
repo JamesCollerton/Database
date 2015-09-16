@@ -1,0 +1,1 @@
+ age of person <type> string | weight <type> string | height <type> string ||  10 | 20 | 30 ||  40 | 50 | 60 ||  70 | 80 | 90 ||  10 | 20 | 30 ||

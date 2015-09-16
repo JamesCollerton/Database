@@ -1,0 +1,1 @@
+ age <type> string | weight <type> foreign <foreign> for_key_test_2 <foreign> Test Database | height <type> string || 
